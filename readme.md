@@ -12,9 +12,7 @@
 演示地址：[https://xh.gitapp.cn](https://xh.gitapp.cn)
 
 
-## 源码下载
 
-https://github.com/geeeeeeeek/java_xh
 
 
 ## 主要功能
